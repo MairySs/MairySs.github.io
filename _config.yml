@@ -1,17 +1,17 @@
 # site settings
 
-title:          cvless
-tagline:        Jekyll theme for a beautiful online CV
-url:            https://cvless.netlify.app
+title:          Mary Samanta - CV
+tagline:        Software Engineer
+url:            https://mairyss.github.io/
 baseurl:        /
 permalink:      pretty
-repo:           https://github.com/username/username.github.io
+repo:           https://github.com/MairySs/MairySs.github.io
 
 # author settings
 
 author:
-  name:         Place Holder
-  email:        username@domain.com
+  name:         Mary Samanta
+  email:        samantam1717@gmail.com
 photo:          /assets/photo.jpg
 
 # build settings
