@@ -12,6 +12,8 @@ Member of the Citrix Cloud Identity team.
 ### Software Engineer Intern @ Citrix
 *Mar. 2021 - Sep. 2021*  
 Took over and completed a full migration of the Synthetic Monitors of the Citrix Cloud Identity team. 
+
+---
       
 # Education    
 
@@ -22,7 +24,8 @@ Masters Degree
 *2014 - 2022*  
 Integrated Masters Degree
         
-          
+---
+
 # Publications
 
 ### 8th International Conference on Engineering and Emerging Technologies (ICEET) 
